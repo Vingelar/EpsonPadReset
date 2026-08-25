@@ -1,0 +1,1107 @@
+{
+  "ET-2800": {
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2801": {
+    "_alias_of": "ET-2800",
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2803": {
+    "_alias_of": "ET-2800",
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2805": {
+    "_alias_of": "ET-2800",
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2810": {
+    "_alias_of": "ET-2812",
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2811": {
+    "_alias_of": "ET-2812",
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2812": {
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2813": {
+    "_alias_of": "ET-2812",
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2814": {
+    "_alias_of": "ET-2812",
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2815": {
+    "_alias_of": "ET-2812",
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2816": {
+    "_alias_of": "ET-2812",
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2818": {
+    "_alias_of": "ET-2812",
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "stats": {
+      "Maintenance required level of 1st waste ink counter": [
+        54
+      ],
+      "Maintenance required level of 2nd waste ink counter": [
+        55
+      ],
+      "Maintenance required level of 3rd waste ink counter": [
+        255
+      ],
+      "Manual cleaning counter": [
+        90
+      ],
+      "Power cleaning counter": [
+        91
+      ],
+      "Timer cleaning counter": [
+        89
+      ],
+      "Total print page counter": [
+        776,
+        775,
+        774,
+        773
+      ],
+      "Total print pass counter": [
+        133,
+        132,
+        131,
+        130
+      ],
+      "Total scan counter": [
+        1843,
+        1842,
+        1841,
+        1840
+      ]
+    },
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "write_key": "Maribaya"
+  },
+  "ET-2820": {
+    "raw_waste_reset": {
+      "252": 0,
+      "253": 0,
+      "254": 0,
+      "255": 94,
+      "28": 0,
+      "47": 0,
+      "48": 0,
+      "49": 0,
+      "50": 0,
+      "51": 0,
+      "52": 0,
+      "53": 0,
+      "54": 94,
+      "55": 94
+    },
+    "read_key": [
+      74,
+      54
+    ],
+    "write_key": "Maribaya",
+    "waste": {
+      "borderless_waste": {
+        "divider": 34.16,
+        "oids": [
+          50,
+          51,
+          47
+        ]
+      },
+      "main_waste": {
+        "divider": 63.46,
+        "oids": [
+          48,
+          49,
+          47
+        ]
+      },
+      "third_waste": {
+        "divider": 13.0,
+        "oids": [
+          252,
+          253,
+          254
+        ]
+      }
+    },
+    "_based_on": "ET-2800",
+    "_key_group": "0x364A"
+  }
+}

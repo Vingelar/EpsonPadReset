@@ -1,0 +1,15 @@
+bin/
+obj/
+dumps/
+*.user
+*.suo
+.vs/
+*.dll
+*.exe
+*.pdb
+*.log
+ref_*.py
+PadZero.exe_extracted/
+.pyinstxtractor.py
+__pycache__/
+*.pyc
