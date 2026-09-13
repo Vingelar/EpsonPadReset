@@ -1,3 +1,6 @@
+**Developed with [Cursor AI](https://cursor.com)**
+
+[![Developed with Cursor AI](https://img.shields.io/badge/developed%20with-Cursor%20AI-000000)](https://cursor.com)
 # EpsonPadReset
 
 Windows console tool (C# / .NET 8) that **reads and resets Epson EcoTank waste-ink counters** over USB, with an automatic EEPROM backup before any write.
